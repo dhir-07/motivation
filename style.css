@@ -1,0 +1,44 @@
+body {
+    background-color: #191919;
+
+}
+h1 {
+    text-transform: capitalize;
+    font-size: 3rem;
+    color: burlywood;
+    font-style: oblique;
+}
+p {
+    text-transform: uppercase;
+    text-shadow: #9AD0C2;
+    color: bisque;
+    
+}
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: 9AD0C2;
+    font-family: "libre Baskerville", serif;
+    text-align: center;
+}
+.motivation-img {
+    border: 5px solid #9AD0C2;
+    width: 100%;
+}
+.books-img  {
+    border: 5px solid darkgrey;
+    width: 100%;
+}
+.self-help {
+    border: 5px solid darkseagreen;
+    width: 100%;
+}
+.albert-says {
+    border: 5px solid brown;
+    width: 100%;
+}
+.theodore {
+    border: 5px solid #d09ac4;
+    width: 100%;
+}
